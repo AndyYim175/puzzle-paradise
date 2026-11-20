@@ -1,0 +1,2 @@
+# puzzle-paradise
+Solve puzzles! 
